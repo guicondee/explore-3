@@ -99,19 +99,6 @@ section ul li strong {
   line-height: 1.9rem;
   }
 
-  .code   {
-    /* position: relative;
-    width: 250px;
-    height: 250px;
-    background: #995000;
-     border: 1px solid #995000;
-
-     margin-left: 940px;
-     margin-top: -400px;
-     margin-bottom: 265px; */
-
-  }
-
   .code img{
    
     position: absolute;
@@ -120,5 +107,5 @@ section ul li strong {
     width: 150px;
     margin-bottom: 265px;
 
-    z-index: 1;
+  
   }
