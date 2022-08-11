@@ -98,3 +98,27 @@ section ul li strong {
   font-size: 1.6rem;
   line-height: 1.9rem;
   }
+
+  .code   {
+    /* position: relative;
+    width: 250px;
+    height: 250px;
+    background: #995000;
+     border: 1px solid #995000;
+
+     margin-left: 940px;
+     margin-top: -400px;
+     margin-bottom: 265px; */
+
+  }
+
+  .code img{
+   
+    position: absolute;
+    margin-left: 940px;
+    margin-top: -400px;
+    width: 150px;
+    margin-bottom: 265px;
+
+    z-index: 1;
+  }
